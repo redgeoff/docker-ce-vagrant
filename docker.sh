@@ -27,5 +27,5 @@ apt-get update
 # Install docker-ce
 apt-get install -y docker-ce
 
-# # Access docker w/o sudo
-# usermod -aG docker ubuntu
+# Access docker w/o sudo
+usermod -aG docker ubuntu
