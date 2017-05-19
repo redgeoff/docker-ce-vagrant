@@ -1,4 +1,4 @@
-# docker-vagrant
+# docker-ce-vagrant
 
 A quick way to get docker CE set up on a VM
 
